@@ -8,7 +8,7 @@
 
 <hr>
 
-- 💻 Technical Support Level 1 and Automation Manager at [BotConversa](https://www.linkedin.com/company/botconversa/posts/?feedView=all)
+- 💻 Technical Support Level 1 and Level 2 | Automation Manager at [BotConversa](https://www.linkedin.com/company/botconversa/posts/?feedView=all)
 - 🤖 AI Agent Developer with n8n
 - 🚀 Future Full-Stack Developer
 - ☕ Growing in Java's learning!
